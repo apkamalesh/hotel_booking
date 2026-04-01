@@ -97,5 +97,6 @@ export default function HotelFormPage() {
         </form>
       </div>
     </div>
+    
   )
 }
